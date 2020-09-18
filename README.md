@@ -11,5 +11,6 @@ print_05: Usando um git status
 print_06: git log  
 print_07: Usando o git add para enviar o README.md para o stage e checando o status  
 print_08: Usando o "fetch" em seguida o push para comitar as mudanças  
-print_09: Usando o "fetch" em seguida o push para e comitando as alterações com o commit
+print_09: Usando o "fetch" em seguida o push para e comitando as alterações com o commit  
+print_10: Adicionando as imagens
   
